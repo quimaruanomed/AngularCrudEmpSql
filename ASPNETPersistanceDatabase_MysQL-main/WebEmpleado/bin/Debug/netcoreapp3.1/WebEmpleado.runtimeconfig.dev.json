@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\jruan\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jruan\\.nuget\\packages"
-    ]
-  }
-}
